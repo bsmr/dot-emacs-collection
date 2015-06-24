@@ -1,0 +1,9 @@
+[submodule "chrismccord"]
+	path = chrismccord
+	url = https://github.com/chrismccord/dot_emacs.git
+[submodule "tonini"]
+	path = tonini
+	url = https://github.com/tonini/emacs.d.git
+[submodule "duff"]
+	path = duff
+	url = https://github.com/duff/emacs.d.git
