@@ -2,6 +2,12 @@
 
 A collection of various .emacs configurations.
 
+_Notes:_
+
+* The included [GNU Emacs](https://www.gnu.org/software/emacs/) especially target [Erlang/OTP](http://www.erlang.org/) and [Elixir](http://elixir-lang.org/) setups. 
+* Other languages like [LFE](http://lfe.io/), and [SBCL](http://sbcl.org/) may _show up_ as well.
+* [EVIL](https://bitbucket.org/lyro/evil/wiki/Home) mode will be _promoted_!
+
 ## git help for submodules
 
 To clone this repository with all its _children_ issue the following `git` command:
